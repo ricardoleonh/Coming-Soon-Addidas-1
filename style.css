@@ -10,6 +10,11 @@ body{
     margin: 15px auto;
 }
 
+.all-container {
+    max-width: 450px;
+    margin: 0 auto;
+}
+
 .athlete {
     background: blue url("https://assets.codepen.io/6060109/athlete-girl.png") no-repeat right top;
     background-size: cover;
